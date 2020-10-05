@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/instagram-clone/static/css/main.1259f057.chunk.css",
+    "main.css": "/instagram-clone/static/css/main.d9172984.chunk.css",
     "main.js": "/instagram-clone/static/js/main.e5570d86.chunk.js",
     "main.js.map": "/instagram-clone/static/js/main.e5570d86.chunk.js.map",
     "runtime-main.js": "/instagram-clone/static/js/runtime-main.8aef135a.js",
@@ -8,9 +8,9 @@
     "static/js/2.1d4b9c58.chunk.js": "/instagram-clone/static/js/2.1d4b9c58.chunk.js",
     "static/js/2.1d4b9c58.chunk.js.map": "/instagram-clone/static/js/2.1d4b9c58.chunk.js.map",
     "index.html": "/instagram-clone/index.html",
-    "precache-manifest.4211d6932cc5ec49a900f9b273d2e989.js": "/instagram-clone/precache-manifest.4211d6932cc5ec49a900f9b273d2e989.js",
+    "precache-manifest.c4033512d0fce801666ef2007b9fd70c.js": "/instagram-clone/precache-manifest.c4033512d0fce801666ef2007b9fd70c.js",
     "service-worker.js": "/instagram-clone/service-worker.js",
-    "static/css/main.1259f057.chunk.css.map": "/instagram-clone/static/css/main.1259f057.chunk.css.map",
+    "static/css/main.d9172984.chunk.css.map": "/instagram-clone/static/css/main.d9172984.chunk.css.map",
     "static/js/2.1d4b9c58.chunk.js.LICENSE.txt": "/instagram-clone/static/js/2.1d4b9c58.chunk.js.LICENSE.txt",
     "static/media/index.css": "/instagram-clone/static/media/phone.38825c9d.png",
     "static/media/slide1.jpg": "/instagram-clone/static/media/slide1.f5ae123a.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.8aef135a.js",
     "static/js/2.1d4b9c58.chunk.js",
-    "static/css/main.1259f057.chunk.css",
+    "static/css/main.d9172984.chunk.css",
     "static/js/main.e5570d86.chunk.js"
   ]
 }
